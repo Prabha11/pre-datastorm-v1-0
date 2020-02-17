@@ -6,6 +6,4 @@ Modeling:
   Inputs: all features
   Classifier: Random Forest
 
-Output:
-                                        Testing	 	Training
-Random forest model accuracy(in %) 	 		: 80.26 	 	79.92
+Output: 80.26(Testing) 	 	79.92(Training)
